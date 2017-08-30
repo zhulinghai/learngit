@@ -3,3 +3,4 @@ git is very good;
 this is three;
 four;
 modifile five;
+set six
